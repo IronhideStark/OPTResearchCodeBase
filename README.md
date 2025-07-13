@@ -1,5 +1,5 @@
 # OPTResearchCodeBase
-This repository contains a data summarization system designed to assist researchers in generating descriptive analyses of real-world datasets.
+This repository contains a data summarization system designed to assist researchers in generating descriptive analysis of real-world datasets.
 
 # 2024 U.S. Election Social Media Dataset Analysis
 This project is part of an academic research task focused on building a data summarizing system using Pure Python, Pandas, and Polars. It explores three datasets related to social media activity during the 2024 U.S. Presidential Election. 
