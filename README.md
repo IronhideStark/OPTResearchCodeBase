@@ -30,7 +30,7 @@ They were useful in identifying variability in ad engagement or post performance
 Bar charts (count plots) were employed to visualize the frequency of values in categorical fields such as: Message types (attack_msg_type_illuminating, issue_msg_type_illuminating), Platforms and sources (publisher_platforms, tweet source), Boolean indicators like is_reply, is_quote, or scam_illuminating.
 These visualizations provided an overview of message classification, platform distribution, and the prevalence of various types of content.
 
-# Genaral Observation
+# General Observation
 The datasets showed a broad range of engagement levels, with some entries reflecting significantly higher activity.
 Categorical indicators suggested varied messaging strategies and platform usage.
 The visualization process highlighted the need for data cleaning and preprocessing, especially with mixed-type or nested fields.
