@@ -1,0 +1,11 @@
+example_id,key,claimed_value
+exp1,lowest_fg_entity,Entity J
+exp1,highest_fg_entity,Entity D
+exp1,entity_j_fg,0.35
+exp1,entity_d_fg,0.6
+exp2,top_scorer,Entity B
+exp2,lowest_impact_player,Entity K
+exp3,needs_coaching,Entity J
+exp3,improvement_focus,Entity G
+exp4,emerging_player,Entity L
+exp4,development_score,0.82
