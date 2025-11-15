@@ -1,0 +1,12 @@
+{
+  "total_claims": 10,
+  "matched": 6,
+  "mismatched": 4,
+  "missing_in_truth": 0,
+  "by_error_type": {
+    "ok": 0,
+    "mismatch_number": 3,
+    "mismatch_string": 1
+  },
+  "accuracy": 0.6
+}

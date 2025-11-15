@@ -1,0 +1,11 @@
+example_id,key,claimed_value,truth_value,match,error_type,diff
+exp1,lowest_fg_entity,Entity J,Entity J,TRUE,,
+exp1,highest_fg_entity,Entity D,Entity D,TRUE,,
+exp1,entity_j_fg,0.35,0.331,FALSE,mismatch_number,delta=0.01899999999999996 tol=0.0
+exp1,entity_d_fg,0.6,0.596,FALSE,mismatch_number,delta=0.0040000000000000036 tol=0.0
+exp2,top_scorer,Entity B,Entity D,FALSE,mismatch_string,levenshtein=1
+exp2,lowest_impact_player,Entity K,Entity K,TRUE,,
+exp3,needs_coaching,Entity J,Entity J,TRUE,,
+exp3,improvement_focus,Entity G,Entity G,TRUE,,
+exp4,emerging_player,Entity L,Entity L,TRUE,,
+exp4,development_score,0.82,0.826,FALSE,mismatch_number,delta=0.006000000000000005 tol=0.0

@@ -1,0 +1,6 @@
+hypothesis,base_condition,compare_condition,word_overlap_ratio
+H1_Framing,struggling,developing,0.475
+H2_Demographics,none,present,0.522
+H3_Confirmation,neutral,confirm,0.395
+H4_Selection,broad,narrow,0.359
+H5_Sentiment,wrong,opportunities,0.39
